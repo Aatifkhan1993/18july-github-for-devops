@@ -1,0 +1,19 @@
+  3 cd .\18july-github-for-devops\                                                                                                                                                                        
+   4 dir                                                                                                                                                                                                   
+   5 git init                                                                                                                                                                                              
+   6 git status                                                                                                                                                                                            
+   7 git add testing.py                                                                                                                                                                                    
+   8 git status                                                                                                                                                                                            
+   9 git rm --cached                                                                                                                                                                                       
+  10 git rm --cached testing.py                                                                                                                                                                            
+  11 git status                                                                                                                                                                                            
+  12 git add testing.py                                                                                                                                                                                    
+  13 git status                                                                                                                                                                                            
+  14 git comit -m "added testing files"                                                                                                                                                                    
+  15 ls                                                                                                                                                                                                    
+  16 git commit -m "added testing files"                                                                                                                                                                   
+  17 ls                                                                                                                                                                                                    
+  18 git status                                                                                                                                                                                            
+  19 git show                                                                                                                                                                                              
+  20 ls                                                                                                                                                                                                    
+  21 git command.txt                 
